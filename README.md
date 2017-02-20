@@ -4,6 +4,12 @@
 StormCore ProjecT™ is a MMORPG Framework based mostly in C++.
 It is completely open source; community involvement is highly encouraged. 
 
+## Build Status
+
+master 
+
+[![master Build Status](https://travis-ci.org/TrinityCore/TrinityCore.svg?branch=master)](https://travis-ci.org/TrinityCore/TrinityCore)
+
 ## Default Account: username: legion@legion password: legion
 ## Account creation command: .bnetaccount Create email password
 
